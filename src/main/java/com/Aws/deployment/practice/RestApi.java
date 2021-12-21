@@ -8,7 +8,7 @@ public class RestApi {
 	public String m1() {
 		
 		
-		return "Deploymentst"; 
+		return "Deploymentst git piush"; 
 	}
 
 }
